@@ -1,0 +1,18 @@
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Servise otel.exe
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Servise otel.deps.json
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Servise otel.runtimeconfig.json
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Servise otel.dll
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Servise otel.pdb
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Core.dll
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\bin\Debug\net6.0\Core.pdb
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.AssemblyInfo.cs
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise .E93A5766.Up2Date
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.dll
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\refint\Servise otel.dll
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.pdb
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\Servise otel.genruntimeconfig.cache
+C:\Users\Pc\Desktop\praktika\Servise otel\Servise otel\obj\Debug\net6.0\ref\Servise otel.dll
